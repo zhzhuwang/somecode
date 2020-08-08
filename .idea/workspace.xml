@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79802420-29a1-438d-a432-7c4006b2c3b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/web$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1568139914905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web___pytest$main.coverage" NAME="main Coverage Results" MODIFIED="1568898576999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$handle_logger.coverage" NAME="handle_logger Coverage Results" MODIFIED="1567096709613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/web$Unittests_in_test_bid_py.coverage" NAME="Unittests in test_bid.py Coverage Results" MODIFIED="1568139555079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/web___pytest$Unittests_in_test_bid_py.coverage" NAME="Unittests in test_bid.py Coverage Results" MODIFIED="1568174561313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/web$test_invest.coverage" NAME="test_invest Coverage Results" MODIFIED="1566826994067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/web$user_page.coverage" NAME="user_page Coverage Results" MODIFIED="1567529885960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/web$autoReport.coverage" NAME="autoReport Coverage Results" MODIFIED="1568029812944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/1053488455/FileRecv" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1coV7QQzmiTjMtccx8YWSNfQKdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../futureAPI_汪珍珠" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lemen\homework\web相关\web项目\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\lemen\homework\web相关\web项目\cases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="autoReport" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Tencent Files/1053488455/FileRecv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Tencent Files/1053488455/FileRecv/autoReport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/user_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_bid.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/test_bid.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.user_page" />
+      <item itemvalue="Python.autoReport" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Unittests in test_login.py" />
+      <item itemvalue="Python tests.Unittests in test_bid.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests in test_bid.py" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python.autoReport" />
+        <item itemvalue="Python.user_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79802420-29a1-438d-a432-7c4006b2c3b2" name="Default Changelist" comment="" />
+      <created>1566652068842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566652068842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.09 at 19h 04m 20s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.09 at 19h 08m 24s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.09 at 19h 19m 40s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.10 at 02h 18m 34s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.11 at 02h 12m 25s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.11 at 02h 15m 57s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.11 at 02h 20m 19s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.11 at 10h 25m 49s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.11 at 10h 35m 41s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bid_py - 2019.09.11 at 12h 02m 42s.xml">
+      <configuration name="Unittests in test_bid.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591419084013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="417" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591419084013" />
+    <state x="787" y="240" key="#main" timestamp="1591195349273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="240" key="#main/0.0.1920.1040@0.0.1920.1040" timestamp="1591195349273" />
+    <state x="782" y="367" key="FileChooserDialogImpl" timestamp="1591419099677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="367" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591419099677" />
+    <state width="1362" height="335" key="GridCell.Tab.0.bottom" timestamp="1591198554564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591198554564" />
+    <state width="1362" height="335" key="GridCell.Tab.0.center" timestamp="1591198554564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591198554564" />
+    <state width="1362" height="335" key="GridCell.Tab.0.left" timestamp="1591198554564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591198554564" />
+    <state width="1362" height="335" key="GridCell.Tab.0.right" timestamp="1591198554564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591198554564" />
+    <state x="694" y="436" key="com.intellij.ide.util.TipDialog" timestamp="1591419068452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="436" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591419068452" />
+  </component>
+</project>
